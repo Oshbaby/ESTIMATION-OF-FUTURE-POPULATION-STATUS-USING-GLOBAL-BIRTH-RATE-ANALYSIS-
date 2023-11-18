@@ -1,0 +1,2 @@
+# ESTIMATION-OF-FUTURE-POPULATION-STATUS-USING-GLOBAL-BIRTH-RATE-ANALYSIS-
+This study aims to analyse global birth rates and their potential implications for future population status. We apply a mix of Multiple Linear Regression Time Series and Exploratory Analysis using a complete dataset that includes variables such as population, birth rate, death rate, fertility rate, population growth rate, and youth dependence ratio
